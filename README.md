@@ -8,5 +8,5 @@ learn more and more
 
 ## short code
 
-1. open index.html
-2. do some monor changes
+1. short message
+
